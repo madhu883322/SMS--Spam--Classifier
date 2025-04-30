@@ -4,6 +4,7 @@ This project is a machine learning-based web application that classifies SMS tex
 It’s built with Python and deployed using Streamlit for a smooth and interactive user interface. The goal is to demonstrate how ML can be applied to real-world problems like filtering spam in communication systems.
 
 🔍 Detailed Explanation of Project Workflow
+
 📥 1. Data Collection
 Dataset Used: SMS Spam Collection Dataset
 
