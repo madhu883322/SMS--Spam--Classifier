@@ -69,3 +69,9 @@ Instantly get output as “Spam” or “Not Spam”.
  • TF-IDF (Text vectorization)
 
  • Naive Bayes (Classification model)
+
+ ![Image](https://github.com/user-attachments/assets/ea30f648-350f-4ae3-ab3c-83e790a9a533)
+
+![Image](https://github.com/user-attachments/assets/406eae0f-5418-49f1-bb61-31265a1d1c82)
+
+![Image](https://github.com/user-attachments/assets/4bd35679-57eb-4467-88bb-d36f90d09bb3)
